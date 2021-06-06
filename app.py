@@ -7,3 +7,4 @@ op = model.predict([ip])
 ans=op[0]
 if st.button('Predict'):
   st.title(op[0])
+   
